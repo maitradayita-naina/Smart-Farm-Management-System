@@ -1,0 +1,5 @@
+
+SmartFarm.exe
+*.o
+*.obj
+crops.txt
